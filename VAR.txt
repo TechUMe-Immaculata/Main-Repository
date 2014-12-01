@@ -1,0 +1,17 @@
+ANDROID_HOME=C:\android\A-SDK\sdk
+ANT_HOME=C:\ANT\apache-ant-1.9.4\
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_20
+PATH=C:\android\A-SDK\sdk\tools;
+C:\Program Files (x86)\Google\Chrome\Application;
+C:\Program Files\Common Files\Microsoft Shared\Windows Live;
+C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;
+C:\ProgramData\Oracle\Java\javapath;
+C:\Windows\system32;
+C:\Windows;
+C:\Windows\System32\Wbem;
+C:\Windows\System32\WindowsPowerShell\v1.0\;
+C:\Program Files (x86)\QuickTime\QTSystem\;
+C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;
+C:\Program Files (x86)\Windows Live\Shared;
+C:\Users\s250350\AppData\Roaming\npm;
+C:\Program Files (x86)\nodejs\;%ANT_HOME%\bin;
